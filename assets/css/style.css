@@ -1,7 +1,15 @@
-h1 {
-	text-align: center;
+
+body, #menu-area{
+	background-color: #686868;
 }
 
-.menu-area {
-	padding: 10px;
+.header-panel, #display-gifs {
+	background-color: #000;
+	font-family: 'Shrikhand', cursive;
+	text-align: center;
+	color: #fff;
+}
+
+label {
+	color: #fff;
 }

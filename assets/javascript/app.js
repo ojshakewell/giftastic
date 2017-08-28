@@ -8,7 +8,7 @@
 
 $(document).ready(function(){
 //create an array of strings, each one related to a topic that interests you. Save it to a variable called topics. 
-var topics = ["Richard Simmons", "Russell Simmons", "Gene Simmons", "JK Simmons", "Jemma Simmons"];
+var topics = ["Richard Simmons", "Russell Simmons", "Gene Simmons", "JK Simmons", "Jemma Simmons", "Joseph Simmons Run DMC"];
 
 var displayButton;
 
