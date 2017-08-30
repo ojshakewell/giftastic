@@ -41,7 +41,7 @@ $(document).on("click", ".button", function(){
 
 	var inputData = $(this).attr("value");
 	//console.log(inputData)
-    var queryURL = "http://api.giphy.com/v1/gifs/search?q=" + inputData + "&api_key=dc6zaTOxFJmzC&limit=10";
+    var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + inputData + "&api_key=dc6zaTOxFJmzC&limit=10";
 	//console.log(queryURL);
 //When the user clicks on a button, the page should grab 10 static, non-animated gif images from the GIPHY API and place them on the page. 
 	$.ajax({
