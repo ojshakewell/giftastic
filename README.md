@@ -1,6 +1,6 @@
-# Project Title
+# Simmons-O-Matic
 
-One Paragraph of project description goes here
+Simmons-O-Matic is a web application that uses the GIPHY API and jQuery to dynamicly update the HTML content
 
 ## Getting Started
 
@@ -8,59 +8,22 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+Web Browser, all other dependenciies are linked in the HTML.
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
+Clone or the repository and open the index.html in a web browser.
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+Upload the index.html and asset directory yo a web hosting service.
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* JavaScript
+* HTML
+* jQuery
+* Bootstrap
 
 ## Contributing
 
@@ -72,9 +35,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Brian Russell** - *Initial work* - [ojshakewell](https://github.com/ojshakewell)
 
 ## License
 
@@ -82,7 +43,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* Readme template PurpleBooth https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
 
